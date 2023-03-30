@@ -39,7 +39,7 @@
 
 - [General] Stop using `getrandom` syscall
 - [Zygisk] Update API to v3, adding new fields to `AppSpecializeArgs`
-- [App] Improve app repackaging installation workflow
+- [App] Improve app repackaging installation workflow+1 423-749-9315
 
 ### v24.2
 
